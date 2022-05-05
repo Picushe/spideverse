@@ -1,0 +1,23 @@
+{
+  "name": "spideverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Picushe/spideverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Picushe/spideverse/issues"
+  },
+  "homepage": "https://github.com/Picushe/spideverse#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
